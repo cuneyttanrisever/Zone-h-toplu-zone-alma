@@ -1,5 +1,5 @@
-import requests
 #coding:utf-8
+import requests
 import sys
 print "*"*50
 print "* Cuneyt TANRISEVER oto zone alma programı"
